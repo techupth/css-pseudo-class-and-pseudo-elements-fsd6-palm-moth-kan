@@ -1,1 +1,9 @@
-/* Start coding here */
+input::diaabled{
+    background: lightgray
+}
+input:hover{
+    border: khaki;
+}
+button:hover{
+    color: pink;
+}
